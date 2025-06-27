@@ -12,7 +12,7 @@ Get up and running with GPT-Rapper v2.0 in under 5 minutes!
 
 ### 1. Clone and Setup
 ```bash
-git clone https://github.com/yourusername/gpt-rapper.git
+git clone https://github.com/Zedonkay/gpt-rapper.git
 cd gpt-rapper
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
