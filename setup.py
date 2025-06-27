@@ -50,9 +50,9 @@ setup(
     },
     keywords="ai, rap, music, text-to-speech, openai, elevenlabs, audio, generation",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/gpt-rapper/issues",
-        "Source": "https://github.com/yourusername/gpt-rapper",
-        "Documentation": "https://github.com/yourusername/gpt-rapper#readme",
+        "Bug Reports": "https://github.com/Zedonkay/gpt-rapper/issues",
+        "Source": "https://github.com/Zedonkay/gpt-rapper",
+        "Documentation": "https://github.com/Zedonkay/gpt-rapper#readme",
     },
     include_package_data=True,
     zip_safe=False,
