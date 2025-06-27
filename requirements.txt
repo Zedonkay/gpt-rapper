@@ -5,3 +5,5 @@ elevenlabs>=2.3.0
 pydub>=0.25.1
 requests>=2.32.0
 numpy>=1.24.0 
+ffmpeg-python>=0.2.0
+ffmpeg>=1.4
